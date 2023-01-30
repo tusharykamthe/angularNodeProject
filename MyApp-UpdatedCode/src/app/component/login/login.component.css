@@ -1,0 +1,23 @@
+/* .loginbox{
+  border: 5px solid rgb(103, 198, 113);
+  margin: auto; 
+  padding: 20px;
+  width: 500px;
+  border-radius: 20px;
+  background-color: rgb(174, 222, 163);
+  
+} */
+
+/* bootstrap styling */
+.loginbox{
+  /* margin-top: auto; */
+  border: none;
+  width: 500px;
+  padding: 40px;
+  position: absolute;
+  top:50%;
+  left:50%;
+  transform: translate(-50%, -50%);
+  background: rgb(255, 163, 105);
+  background: linear-gradient(90deg, rgb(193, 210, 223) 0%, rgb(213, 232, 41) 100%);
+}

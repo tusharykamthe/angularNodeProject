@@ -1,0 +1,40 @@
+<div class="container">
+    <div class="row">
+        <div class="col-md-6">
+            <div class="card">
+                <div class="text-centre">
+                    <h1>Sign up</h1>
+                    <h6>Register Yourself</h6>
+                </div>
+                <form>
+                    <form [formGroup]="signupForm" (ngSubmit)="signup()" >
+                        <div class="mb-3">
+                            <label for="exampleInputPassword1" class="form-label">Full Name</label>
+                            <input formControlName="fullname" type="text" class="form-control" id="exampleInputPassword1">
+                          </div>
+
+                          <div class="mb-3">
+                            <label for="exampleInputPassword1" class="form-label">Mobile Number</label>
+                            <input formControlName="mobile" type="number" class="form-control" id="exampleInputPassword1">
+                          </div>
+
+                        <div class="mb-3">
+                          <label for="exampleInputEmail1" class="form-label">Email address</label>
+                          <input formControlName="email" type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                          <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                        </div>
+                        <div class="mb-3">
+                          <label for="exampleInputPassword1" class="form-label">Password</label>
+                          <input formControlName="password" type="password" class="form-control" id="exampleInputPassword1">
+                        </div>
+                        
+                        <button type="submit" class="btn btn-primary" >Sign up</button>
+                      </form>
+                </form>
+                <a style="color: rgb(10, 9, 9); margin-top:10px; text-decoration: none;" routerLink="/login">Already registerd? Click to Login.</a>
+            </div>
+        </div>
+    </div>
+  </div>
+
+ 

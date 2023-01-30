@@ -1,0 +1,70 @@
+{
+    "Items":[
+        {"id":1,"title":" Xiaomi Mi TV P1 32 inch","price":30000,"description":"New OLED panel with widest ever colour spectrum","category":"tvs","image":"https://cdn.webshopapp.com/shops/256009/files/374440364/450x450x2/xiaomi-xiaomi-mi-tv-p1-32-inch.jpg"},
+       
+        {"id":2,"title":" OnePlus 80 cm (32 inches) Y Series HD Ready LED Smart Android TV 32Y1 (Black)","price":30000,"description":"New OLED panel with widest ever colour spectrum","category":"tvs","image":"https://www.reliancedigital.in/medias/ONEPLUS-43Y1-TV-491895011-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxODYzOTV8aW1hZ2UvanBlZ3xpbWFnZXMvaGFlL2gzOC85ODEwMDU4Mzc5Mjk0LmpwZ3wwYWE2Y2UzOTE3MzU3ODI0ZjJmZjhkZGVmZTVkNzc3ODlmNzIwMjQ3N2U0ZWViMzFmOGYxMmYxZWNiZGM2NGUx"},
+
+        {"id":3,"title":" Redmi 80 cm (32 inches) Android 11 Series HD Ready Smart LED TV | L32M6-RA/L32M7-RA (Black)","price":30000,"description":"New OLED panel with widest ever colour spectrum","category":"tvs","image":"https://cdn.webshopapp.com/shops/256009/files/414067912/450x450x2/xiaomi-xiaomi-tv-f2-43-inch-fire-tv.jpg"},
+
+        {"id":"4", "title":"Samsung 80 cm (32 inch) HD Ready LED Smart TV, 4 Series 32T4750", "image":"https://www.reliancedigital.in/medias/BPL-32inch-A1000-Television-491895044-i-1-1200Wx1200H?context=bWFzdGVyfGltYWdlc3wxNDY4ODd8aW1hZ2UvanBlZ3xpbWFnZXMvaDk0L2g2NC85NzgyMzAzNDI0NTQyLmpwZ3w2YjhlNTg1MzliZDAwNTUyMTBhOTYwMmZlZmMzYTIzYzE0MWZkNDM2OTBlYjAzNzg2NWMzOTNiZjgzMWFmMzAy","description":"Samsung 80 cm (32 inch) HD Ready LED Smart TV, 4 Series 32T4750","price":30000},
+
+        {"id":5,"title":" Xiaomi Mi TV P1 32 inch","price":30000,"description":"New OLED panel with widest ever colour spectrum","category":"tvs","image":"https://cdn.webshopapp.com/shops/256009/files/374440364/450x450x2/xiaomi-xiaomi-mi-tv-p1-32-inch.jpg"},
+
+        {"id":6,"title":" Croma 80 cm (32 inch) HD Ready LED Smart Android TV with Google Assistant (2022 model)","price":30000,"description":"Display: LED HD Ready, 1366 x 768 pixels, 60 Hz Refresh Rate","category":"tvs","image":"https://d2d22nphq0yz8t.cloudfront.net/88e6cc4b-eaa1-4053-af65-563d88ba8b26/https://media.croma.com/image/upload/v1664417901/Croma%20Assets/Entertainment/Television/Images/247599_0_pck5gm.png/mxw_640,f_auto"},
+
+        {"id":7,"title":"FASHION AND YOUTH Stylish Unisex Avenger Design Printed Hooded Hoodies | Pullover Sweatshirts for Men & Women","price":800,"description":"Age Range Description: Adult; Closure Type: Drawstring; Pattern Type: Solid","category":"men's clothing","image":"https://m.media-amazon.com/images/I/71lDPJJ0sZL._UX679_.jpg","rating":{"rate":3.9,"count":120}},
+       
+
+        {"id":8,"title":"IndoPrimo Men's Regular Fit Casual Shirt FASHION","price":800,"description":"Age Range Description: Adult; Closure Type: Drawstring; Pattern Type: Solid","category":"men's clothing","image":"https://m.media-amazon.com/images/I/71yM0xUAetL._UX679_.jpg","rating":{"rate":3.9,"count":120}},
+       
+
+        {"id":9,"title":"Stylish slim fit and six oversized pockets - that's the coolest combination to own this season! Pair it up with a button-down shirt to add to the oomph pant FASHION.","price":700,"description":"Age Range Description: Adult; Closure Type: Drawstring; Pattern Type: Solid","category":"men's clothing","image":"https://cdn.shopify.com/s/files/1/0549/9981/0113/products/1_75be123d-a52e-4688-96fe-ced82b057f1b_800x.jpg?v=1646283190","rating":{"rate":3.9,"count":120}},
+
+
+      
+
+
+
+        {"id":10,"title":"MEENAZ Jewellery Valentine Birthday Gifts Styish Gold Jewellery Rings for Men Man Boys Gents Boyfriend Ring -FR457 Size 24","price":500,"description":"It is advisable to store jewellery in a zip lock pouch (air tight pouch)keep away from water and perfume and other chemical and clean with dry soft cloth","category":"jewelry","image":"https://m.media-amazon.com/images/I/71Tg0H5MVtL._UY575_.jpg","rating":{"rate":3.9,"count":120}},
+
+
+        {"id":11,"title":"Voylla Men's Chain in Gold Plating Jewelry","price":500,"description":"It is advisable to store jewellery in a zip lock pouch (air tight pouch)keep away from water and perfume and other chemical and clean with dry soft cloth","category":"jewelry","image":"https://m.media-amazon.com/images/I/71Uyo++vZ6L._UY575_.jpg","rating":{"rate":3.9,"count":120}},
+
+        {"id":12,"title":"Gold Plating Jewelry","price":500,"description":"It is advisable to store jewellery in a zip lock pouch (air tight pouch)keep away from water and perfume and other chemical and clean with dry soft cloth","category":"jewelry","image":"https://m.media-amazon.com/images/I/81zrjK9+KsL._UY575_.jpg","rating":{"rate":3.9,"count":120}},
+
+
+        {"id":13,"title":"Sukkhi Modish Gold Plated Necklace Set for Women Jewelry Gold Plating Jewelry","price":55000,"description":"It is advisable to store jewellery in a zip lock pouch (air tight pouch)keep away from water and perfume and other chemical and clean with dry soft cloth","category":"jewelry","image":"https://m.media-amazon.com/images/I/71gR9lbK1jL._UY575_.jpg","rating":{"rate":3.9,"count":120}},
+
+
+
+        {"id":14,"title":"MEENAZ Jewellery Valentine Birthday Gifts Styish Gold Jewellery Rings for Men Man Boys Gents Boyfriend Ring -FR457 Size 24","price":500,"description":"It is advisable to store jewellery in a zip lock pouch (air tight pouch)keep away from water and perfume and other chemical and clean with dry soft cloth","category":"jewelry","image":"https://m.media-amazon.com/images/I/71Tg0H5MVtL._UY575_.jpg","rating":{"rate":3.9,"count":120}},
+
+        {"id":15,"title":"MEENAZ Jewellery Valentine Birthday Gifts Styish Gold Jewellery Rings for Men Man Boys Gents Boyfriend Ring -FR457 Size 24","price":500,"description":"It is advisable to store jewellery in a zip lock pouch (air tight pouch)keep away from water and perfume and other chemical and clean with dry soft cloth","category":"jewelry","image":"https://m.media-amazon.com/images/I/71qY5TIwKaL._UY575_.jpg","rating":{"rate":3.9,"count":120}},
+
+
+        {"id":16,"title":"toy Brand Conquer Plastic Construction Realistic Engineer Vehicle Pushdozer Excavator Bulldozer Construction Toys Truck Machine for Kids (Excavator Construction Toy)","price":500,"description":"Highly Detailed Earthmover is Designed In yellow Bright color and has Detailed Decals on it, Bright and multi function design colors makes it ideal for Gifting, Children's can spend more time Playing","category":"toy","image":"https://m.media-amazon.com/images/I/71jxRbW7jDL._SX450_.jpg","rating":{"rate":3.9,"count":120}},
+
+
+        {"id":17,"title":"HOMME STORE Unbreakable Army Force Truck Toy Friction Power Pull Back Vehicles Engineering Toys Truck with Light & Sound for Kids Boys Girls (Missile Launcher-Agni)","price":500,"description":"Highly Detailed Earthmover is Designed In yellow Bright color and has Detailed Decals on it, Bright and multi function design colors makes it ideal for Gifting, Children's can spend more time Playing","category":"toy","image":"https://m.media-amazon.com/images/I/617WAyPt+VL._SX466_.jpg","rating":{"rate":3.9,"count":120}},
+
+
+        {"id":18,"title":"MILITO New Kids Toys Black Train and Train Set 13 Pieces Battery Operated Toy Set for Kids, Medium Size with Headlight Toy Train for Kids","price":500,"description":"Highly Detailed Earthmover is Designed In yellow Bright color and has Detailed Decals on it, Bright and multi function design colors makes it ideal for Gifting, Children's can spend more time Playing","category":"toy","image":"https://m.media-amazon.com/images/I/61CrI4kw6aL._SX450_.jpg","rating":{"rate":3.9,"count":120}},
+
+
+        {"id":19,"title":"WireScorts Chargebale Plastic Racing Car for Kids with Remote Control, Pack of 1, Multicolored","price":1000,"description":"Highly Detailed Earthmover is Designed In yellow Bright color and has Detailed Decals on it, Bright and multi function design colors makes it ideal for Gifting, Children's can spend more time Playing","category":"toy","image":"https://m.media-amazon.com/images/I/61I99PHka+L._SX450_.jpg","rating":{"rate":3.9,"count":120}}
+
+      
+    ] ,
+    "Users":[
+        { "id":1,"name":"Tushar", "address":"Saswad","contact":7721047829,"email":"tykamthe@gmail.com"},
+        {"id":2,"name":"Yuvraj", "address":"Pune","contact":9921047829,"email":"yykamthe@gmail.com"},
+        { "id":3,"name":"Vishal", "address":"Mumbai","contact":9121047829,"email":"vnkamthe@gmail.com"},
+        { "id":4,"name":"Rohit", "address":"Satara","contact":8821047829,"email":"rtkamthe@gmail.com"}
+],
+"Login":[
+    {"id":1, "name":"Tushar","password":"Tushar123"},
+    {"id":2, "name":"Yuvraj","password":"Yuvraj123"},
+    {"id":3, "name":"Vishal","password":"Vishal123"},
+    {"id":4, "name":"Rohit","password":"Rohit123"}
+]
+}
